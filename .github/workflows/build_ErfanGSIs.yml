@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.3.0.QFMCNXM/miui_LAURUS_V12.0.3.0.QFMCNXM_33dbfb5dd7_10.0.zip
+  ROM_URL: https://150-138-41-1.ksyungslb.com/bigota.d.miui.com/21.4.22/miui_LAURUS_21.4.22_34a355177c_10.0.zip?ksy_gslb_referer=https%3A%2F%2Fxiaomirom.com%2Fdownload%2Fmi-cc-9e-laurus-weekly-21.4.22%2F
   ROM_NAME: MIUI
   TZ: Asia/Jinan
 
